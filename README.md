@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Dynamic Informatics Engineering graduate skilled in React, Node.js, and C#. Proven collaborator with a focus on effective communication and adaptability. Demonstrated proficiency in dynamic Power BI solutions during a Procter and Gamble internship, enhancing data-driven decision-making. Eager to apply my technology passion, strong teamwork, and soft skills in an innovative environment. Sets apart through technical proficiency and a commitment to effective communication, teamwork, and organization. Excited to contribute creativity, adaptability, and collaboration to a forward-thinking organization. Enriched by a multicultural background, I bring a unique perspective for positive outcomes.
+
 <!--
 **faustogenga/faustogenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
