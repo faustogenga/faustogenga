@@ -4,6 +4,8 @@ Dynamic Informatics Engineering graduate with a proven track record of effective
 
 ✨ What sets me apart is not just technical proficiency but also a deep-seated commitment to fostering effective communication, teamwork, and organization. Excited to contribute to the success of a forward-thinking organization through creativity, adaptability, and a collaborative approach. Enriched by a multicultural background and perspective, I bring a unique blend of skills and experiences to drive positive outcomes.
 
-💼 Portafolio : https://faustogenga.github.io/
+💼 Portfolio : https://faustogenga.github.io/ 
+
 📫 faustogengaalfaro@gmail.com
+
 Linkedin : https://www.linkedin.com/in/fausto-genga-695b68251/
