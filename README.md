@@ -6,6 +6,6 @@ Dynamic Informatics Engineering graduate with a proven track record of effective
 
 💼 Portfolio : https://faustogenga.github.io/ 
 
-📫 faustogengaalfaro@gmail.com
+📫 Email : faustogengaalfaro@gmail.com
 
 Linkedin : https://www.linkedin.com/in/fausto-genga-695b68251/
