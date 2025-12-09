@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I’m **Fausto Genga**, an Informatics Engineering graduate with a passion for turning data into insight and ideas into impact. During my internship at Procter & Gamble, I developed dynamic Power BI solutions that supported smarter, data-driven decisions.
+I’m **Fausto Genga**, an Informatics Engineering graduate passionate about **data**, **AI**, and **full-stack development**. I especially enjoy building intuitive and engaging front-end experiences with **React**.
 
-I bring not only technical skills but also strong communication, adaptability, and a collaborative mindset. With a multicultural background and a drive for continuous learning, I’m excited to contribute to innovative, team-oriented environments.
+I’m driven by curiosity, creativity, and a love for solving problems through technology. With strong communication skills, adaptability, and a collaborative mindset, I thrive in team-oriented, innovative environments. My multicultural background helps me bring fresh perspectives to every project.
 
 📁 **Portfolio:** [https://faustogenga.github.io](https://faustogenga.github.io)
 📫 **Email:** [faustogengaalfaro@gmail.com](mailto:faustogengaalfaro@gmail.com)
